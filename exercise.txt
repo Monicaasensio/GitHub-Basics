@@ -8,4 +8,4 @@ Github Basics:
 
 2.	Git is a distributed version control system (A way that programmers can track their code changes). Git is the most widely accepted version control system because most of its operations are local, making it super fast. Git includes text editors, bug tracking systems, and build servers. This differs from GitHub. GitHub is the most popular Git repository hosting service. It offers unlimited free repositories and include features like issue tracking, web pages, and source code snippet sharing to support developer projects that are hosted on the service. GitHub is super useful because you can host your repository online, making it easy to collaborate in groups, and to organize a portfolio for potential employers. I conclusion, Git lets you manage and keep track of your code history, while GitHub lets you manage your Git repositories by pushing your coded to the online hosting service. 
 
-3.	To create a GitHub repository you first start by
+3.	To fork a GitHub repository, you first need to 
